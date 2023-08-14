@@ -79,7 +79,7 @@
 
         layer_mac {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                                                   &mo 3  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &kp LEFT_COMMAND  &trans                  &kp RIGHT_CONTROL  &kp RIGHT_COMMAND  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans                                      &trans                             &trans                             &trans  &trans  &trans  &trans  &trans  &trans
